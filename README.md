@@ -1,11 +1,11 @@
 # Habit Tracking System
 A smart habit-tracking backend built with Django, featuring:
 
-✔ Habit management
-✔ Habit completion logs
-✔ Environment-based suggestions
-✔ Scoring, mood tracking, and streak logic
-✔ Extensible validation and analytics
+    ✔ Habit management
+    ✔ Habit completion logs
+    ✔ Environment-based suggestions
+    ✔ Scoring, mood tracking, and streak logic
+    ✔ Extensible validation and analytics
 
 ## Project Overview
 This project provides backend models for a personalized habit-tracking application.
